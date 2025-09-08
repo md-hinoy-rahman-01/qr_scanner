@@ -1,16 +1,4 @@
-# qr_scanner
+# rapid_qr_scanner
 
-A new Flutter project.
+<img width="970" height="2101" alt="image" src="https://github.com/user-attachments/assets/f1f58296-8c9c-4245-b3a4-801dfdf22f31" />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
